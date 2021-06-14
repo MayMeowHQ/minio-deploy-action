@@ -1,6 +1,6 @@
-name: 'Minio Deploy'
-description: 'Deploy to Minio Storage'
-author: 'hkdobrev'
+name: 'Minio Deploy by May'
+description: 'Deploy to S3 compatibile storage'
+author: 'MayMeow'
 inputs:
   endpoint:
     description: 'Minio endpoint of object storage host'
